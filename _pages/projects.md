@@ -7,20 +7,19 @@ author_profile: true
 
 # Projects
 
-A selection of engineering and research projects I have worked on.  
-All projects include code links, and some include additional research references.
+A set of selected research and engineering projects.  
+Descriptions are aligned with the corresponding entries in my CV.
 
 ---
 
 ## 1. Tensor-Core-Compatible Optimization for CP Decomposition  
-**GPU Kernel Optimization for MTTKRP via Khatri–Rao Reformulation**  
-*(Machine Learning Systems Lab, Advisor: Euhyun Moon)*
+*(Machine Learning Systems Lab, Advisor: Prof. Euhyun Moon)*
 
-- Investigated the computational bottleneck in CP-ALS, specifically the MTTKRP (Matricized Tensor Times Khatri-Rao Product) operation.  
-- Rewrote the Khatri-Rao product into a Tensor Core–friendly matrix multiplication form.  
-- Designed CUDA kernels optimized with shared memory, warp-level parallelism, and Tensor Core acceleration.  
-- Achieved significant throughput improvement compared to naïve MTTKRP implementations.  
-- Research aligned with tensor decomposition methods used in large-scale ML systems.
+**Topic:** Tensor-Core-Compatible Optimization for CP Decomposition
+
+- Investigated CP Decomposition, a tensor factorization method typically solved using the CP-ALS algorithm.
+- Identified a major computational bottleneck in CP-ALS caused by the **MTTKRP (Matricized Tensor Times Khatri-Rao Product)** operation, which heavily depends on the Khatri-Rao product.
+- Investigated a reformulation that converts the Khatri-Rao product into a matrix multiplication, enabling **Tensor Core compatibility**.
 
 **Code:**  
 [Code](https://github.com/jshine0914/MTTKRP_Practice)
@@ -28,16 +27,18 @@ All projects include code links, and some include additional research references
 ---
 
 ## 2. CUDA Matrix Multiplication Optimization  
-**High-Performance GPU Matrix Multiplication via Multi-Level Tiling**  
 
-- Implemented CUDA kernels for efficient GEMM operations.  
-- Applied global memory coalescing, shared memory tiling, and register blocking.  
-- Implemented **1D block-tiling** and **2D block-tiling** to increase arithmetic intensity.  
-- Benchmarked performance and achieved near-cuBLAS performance levels.
+**Tools:** C/C++, CUDA
+
+- Learned and applied optimization techniques such as:
+  - global memory coalescing  
+  - shared memory cache-blocking  
+  - 1D blocktiling for calculating multiple results per thread  
+  - increasing arithmetic intensity via **2D blocktiling**
+- Achieved **near-cuBLAS performance**.
 
 **Code:**  
 [Code](https://github.com/jshine0914/CUDA_matmul_optimization)
-
 
 
 
