@@ -5,8 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Below is a curated list of my publications and manuscripts.  
-**The order follows my CV exactly.**
+
 
 ---
 
