@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# Projects
 
 A set of selected research and engineering projects.  
 Descriptions are aligned with the corresponding entries in my CV.
