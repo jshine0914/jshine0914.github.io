@@ -15,7 +15,7 @@ Below is a curated list of my publications and manuscripts.
 **Doyeon Kim**, Sangmin Lee, Sein Ha, Hyunbin Park, Du-Seong Chang  
 *In preparation for submission to ACL 2026*  
 
-PDF: _to be uploaded_  
+PDF: _add link here_ 
 Code: _to be released_
 
 ---
