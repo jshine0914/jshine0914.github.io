@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 author_profile: true
 ---
 
@@ -14,5 +14,4 @@ My research focuses on multimodal search agents, Agentic RAG, LLM reasoning, and
 - Multimodal Understanding
 - Interactive & Embodied Agents
 - Efficient AI Systems (Tensor Decomposition, CUDA, Tensor Cores)
-
 
