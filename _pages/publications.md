@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-
 Below is a curated list of my publications and manuscripts.  
 **The order follows my CV exactly.**
 
@@ -15,17 +14,14 @@ Below is a curated list of my publications and manuscripts.
 **Doyeon Kim**, Sangmin Lee, Sein Ha, Hyunbin Park, Du-Seong Chang  
 *In preparation for submission to ACL 2026*  
 
-PDF: _add link here_ 
-Code: _to be released_
-
 ---
 
 ## 2. Quality over Quantity: The Impact of Dataset Refinement on SFT Model Performance  
 **Doyeon Kim**, Sangmin Lee, Dayoung Lee, Sein Ha, Myoungsub Kim, Du-Seong Chang  
 *Korea Software Congress (KSC) 2025*  
 
-PDF: _add link here_  
-Code: _to be released_
+[PDF](/assets/papers/CV_KSC_final.pdf)  
+[Code](https://github.com/eoeldroal/DDAI)
 
 ---
 
@@ -33,5 +29,5 @@ Code: _to be released_
 Byoungjun Oh, **Doyeon Kim**, Dayoung Lee, Sein Ha, Siwook Lee, Du-Seong Chang  
 *Korea Computer Congress (KCC) 2025*  
 
-PDF: _add link here_ 
-Code: _to be released_
+[PDF](/assets/papers/publication_KCC_2025.pdf)  
+[Code](https://github.com/kirasma53/RAG_QA1)
