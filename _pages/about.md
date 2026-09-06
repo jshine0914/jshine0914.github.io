@@ -7,16 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am **Doyeon Kim**, an undergraduate researcher in Computer Science & Engineering at Sogang University.
-My research focuses on multimodal search agents, Agentic RAG, LLM reasoning, and efficient tensor computation on GPUs.
+I am **Doyeon Kim**, an M.S. student in Computer Science at Columbia University. I received my B.S. in Computer Science and Engineering from Sogang University.
 
-Email: doyeonkim2002@gmail.com
+My research interests lie in **language model interpretability and machine semantics**, with a particular interest in understanding how language models represent, acquire, and communicate concepts, especially when those concepts do not align cleanly with human vocabulary.
+
+Email: dk3549@columbia.edu
 
 ---
 
 ## Research Interests
-- Reasoning in Intelligent Systems  
-- Multimodal Understanding
-- Embodied and Interactive Agents
-- Efficient AI Systems (Tensor Decomposition, CUDA, Tensor Cores)
-
+- Language Model Interpretability
+- Machine Semantics and Conceptual Representations
+- Concept Learning and Communication in Language Models
