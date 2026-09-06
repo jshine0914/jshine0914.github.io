@@ -11,7 +11,7 @@ author_profile: true
 
 ## 1. LNS: A Lightweight Navigating Searcher for Visually-Rich RAG  
 **Doyeon Kim**, Sangmin Lee, Sein Ha, Hyunbin Park, Du-Seong Chang  
-*In preparation for submission to ACL 2026*  
+*Submitted to ACL 2026*  
 
 ---
 
