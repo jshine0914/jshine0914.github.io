@@ -21,16 +21,17 @@ repository               : "jshine0914/jshine0914.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+
 author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Doyeon Kim"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Applicant"
-  location         : "Seoul, South Korea"
-  employer         : "Sogang University"
-  uri              : # URL
-  email            : "doyeonkim2002@gmail.com" 
+  pronouns         :
+  bio              : "M.S. Student in Computer Science"
+  location         : "New York, NY"
+  employer         : "Columbia University"
+  uri              :
+  email            : "dk3549@columbia.edu"
 
   # Academic websites
   academia         : # URL
