@@ -7,4 +7,4 @@ author_profile: true
 
 You can download my CV here:
 
-**[PDF](/assets/cv/Doyeon_Academic_CV_1213.pdf)**
+**[PDF](/assets/cv/Academic_CV_Template_56.pdf)**
